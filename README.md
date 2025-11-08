@@ -18,22 +18,7 @@ f(x,y) and the solution field
 )
 u(x,y) directly from data.
 
-−
-∇
-2
-𝑢
-(
-𝑥
-,
-𝑦
-)
-=
-𝑓
-(
-𝑥
-,
-𝑦
-)
+
 −∇
 2
 u(x,y)=f(x,y)
